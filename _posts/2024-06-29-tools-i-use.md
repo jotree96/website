@@ -2,10 +2,7 @@
 title: Die besten Tools für einen Workflow im Computer-Alltag eines Studenten im MINT-Bereich
 author: Jonathan Baum
 date: 2024-06-29
-categories: Meinung
-layout: post
-tags: [Tools, FLOSS]
-
+layout: default
 ---
 
 In den letzten Jahren hatte ich die Gelegenheit, eine Vielzahl von Betriebssystemen, Editoren, PDF-Viewern, Office-Software, Notiz-Apps, Mail-Clients und weiteren Tools auszuprobieren. Dieser Blogpost fasst meine Erfahrungen und Empfehlungen zusammen, insbesondere mit dem Fokus auf frei nutzbare und lokal nutzbare Software, die ohne Cloud-Zwang funktioniert. Zusätzlich möchte ich nicht mehr allzuviel Zeit mit dem fixen von Problemen innerhalb des Betriebssystems verbringen, auch wenn dies viel über Software lehren kann.
