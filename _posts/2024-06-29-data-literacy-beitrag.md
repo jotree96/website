@@ -2,10 +2,7 @@
 title: Anpassung der Zotero Gruppenbibliografie “Data Literacy”
 author: Jonathan Baum
 date: 2024-06-29
-categories: Beitrag
-layout: post
-tags: [Wissenschaft, Information Science]
-
+layout: default
 ---
 
 Für eine Kollegin aus Washington habe ich eine Zotero-Bibliographie angepasst. Der informationswissenschaftliche Output ist in einem Blog-Beitrag festgehalten:
