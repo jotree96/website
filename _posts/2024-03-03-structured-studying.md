@@ -2,9 +2,7 @@
 title: Erfolgreich lernen im Studium
 author: Jonathan Baum
 date: 2024-03-03
-categories: Meinung
-layout: post
-tags: []
+layout: default
 ---
 
 (und darüber hinaus)
