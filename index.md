@@ -3,8 +3,8 @@ layout: default
 title: Startseite
 ---
 
-# Willkommen in meinem Blog
-
+# Jonathan Baum, M.Sc.
+> Informationswissenschaft, Methoden des Natural Language Processing, Daten- und Informationskompetenz, Linux, ..und viele weitere Themen sind in meinem Interesse.
 Hier findest du meine neuesten Beiträge:
 
 <ul>
