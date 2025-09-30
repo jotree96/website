@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Startseite
+title: Jonathan Baum, M.Sc.
 ---
 
-# Jonathan Baum, M.Sc.
+# YAB - Yet another blog
 > Informationswissenschaft, Methoden des Natural Language Processing, Daten- und Informationskompetenz, Linux, ..und viele weitere Themen sind in meinem Interesse.
 Hier findest du meine neuesten Beiträge:
 
