@@ -4,6 +4,7 @@ author: Jonathan Baum
 date: 2024-06-29
 layout: default
 ---
+# {{ page.title }}
 
 In den letzten Jahren hatte ich die Gelegenheit, eine Vielzahl von Betriebssystemen, Editoren, PDF-Viewern, Office-Software, Notiz-Apps, Mail-Clients und weiteren Tools auszuprobieren. Dieser Blogpost fasst meine Erfahrungen und Empfehlungen zusammen, insbesondere mit dem Fokus auf frei nutzbare und lokal nutzbare Software, die ohne Cloud-Zwang funktioniert. Zusätzlich möchte ich nicht mehr allzuviel Zeit mit dem fixen von Problemen innerhalb des Betriebssystems verbringen, auch wenn dies viel über Software lehren kann.
 
