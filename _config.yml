@@ -4,4 +4,3 @@ theme: jekyll-theme-primer
 
 header_pages:
   - index.md
-  - blog.md
