@@ -1,1 +1,7 @@
+title: Jonathan Baum, M.Sc.
+description: Yet another Blog (YAB)
 theme: jekyll-theme-primer
+
+header_pages:
+  - index.md
+  - blog.md
