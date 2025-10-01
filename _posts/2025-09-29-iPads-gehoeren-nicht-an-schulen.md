@@ -1,9 +1,11 @@
 ---
+author: Jonathan Baum
 layout: default
 title: "iPads sind der Untergang der Digitalisierung an Schulen"
 ---
+# {{ page.title }}
 
-# Echauffierte Situationsbeschreibung
+## Echauffierte Situationsbeschreibung
 > Kontext: Bei Bedarf gebe ich ab und an Nachhilfe für Schüler in meinem Ort
 
 Meine Nachhilfekinder mussten .... MUSSTEN ... sich iPads ... JA iPADS .. kaufen. Nicht irgendein iPad, .. neeeeein. Eines der neueren für über 600€ - jedes Kind benötigt eines.
