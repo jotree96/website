@@ -1,12 +1,10 @@
 ---
-title: Erfolgreich lernen im Studium
+title: Erfolgreich lernen im Studium (und darüber hinaus)
 author: Jonathan Baum
 date: 2024-03-03
 layout: default
 ---
-
-(und darüber hinaus)
-
+# {{ page.title }}
 
 Für meine Tätigkeit als Studierendenberater, bin ich ab und an dazu angehalten Tipps zu geben. Letztens wurde ich gefragt, ob ich eine Hilfestellung geben kann – hinsichtlich besserer Noten und das damit verbundene Lernen. Ich habe folgendes geantwortet:
 
