@@ -4,6 +4,7 @@ author: Jonathan Baum
 date: 2023-03-03
 layout: default
 ---
+# {{ page.title }}
 
 Die zunehmende Digitalisierung hat die Art und Weise, wie wir wissenschaftliche Arbeiten erstellen und präsentieren, grundlegend verändert. Eine der wesentlichen Veränderungen betrifft die Verwendung von Online-Quellen und URLs als Referenzen in wissenschaftlichen Arbeiten. Doch was passiert, wenn diese URLs sich ändern oder nicht mehr verfügbar sind? Hier kommt die Archivierung von URLs ins Spiel.
 
